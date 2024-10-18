@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+header{
+    text-align: center;
+    background-color: darkgoldenrod;
+}
+
+.header-element img{
+    width: 100px;
+}
+
+article h1{
+    padding: 40px 0;
+    text-align: center;
+    font-size: 30px;
+}
+
+section > div{
+    padding: 20px 0;
+}
+
+footer{
+
+}
+
+.flex{
+    
+}
