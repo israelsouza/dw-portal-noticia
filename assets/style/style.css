@@ -63,13 +63,19 @@ footer {
     margin: 10px;
 }
 
-#lo {
-    margin-left: 1200px;
-    height: 250px;
-    width: auto;
-    margin-top: -200px;
+/* FOOTER */
+
+.f-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around ;
 }
 
-.marginal {
-    margin: 10px;
+footer #lo{
+    max-width: 200px;
 }
+
+footer #paragrafo-fontes{
+    padding: 20px 0;
+}
+
