@@ -65,17 +65,16 @@ footer {
 
 /* FOOTER */
 
-.f-footer{
+.f-footer {
     display: flex;
     align-items: center;
-    justify-content: space-around ;
+    justify-content: space-around;
 }
 
-footer #lo{
+footer #lo {
     max-width: 200px;
 }
 
-footer #paragrafo-fontes{
+footer #paragrafo-fontes {
     padding: 20px 0;
 }
-
